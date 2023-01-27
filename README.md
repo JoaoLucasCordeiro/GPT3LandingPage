@@ -4,5 +4,5 @@
 Landing page desenvolvida em React e algumas outras bibliotecas JavaScript, contando com responsividade para se adaptar aos diversos tamanhos de tela.
 
 ### Bibliotecas utilizadas e frameworks:
-- React
-- Tailwind css
+- React / JavaScript
+
